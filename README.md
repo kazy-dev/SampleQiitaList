@@ -1,1 +1,1 @@
-# sample_qiita_list
+# Sample Qiita List
